@@ -199,7 +199,7 @@ http://127.0.0.1:8000/snaptik?url=https://vm.tiktok.com/xxxxxxxx/&type=embed
 | Name                                                 | Endpoint      | Status|
 |------------------------------------------------------|---------------|--------|
 | <a href="https://snaptik.app">Snaptik</a>            | /snaptik      | ✓
-| <a href="https://tikmate.online">Tikmate</a>         | /tikmate      |✓
+| <a href="https://tikmate.cc">Tikmate</a>         | /tikmate      |✓
 | <a href="https://musicaldown.com/">MusicalDown       | /mdown        |✓
 | <a href="https://ssstik.io">ssstik</a>               | /ssstik       | ✓
 | <a href="https://ttdownloader.com/">ttdownloader</a> | /ttdownloader | ✓
